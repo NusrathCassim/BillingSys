@@ -1,0 +1,8 @@
+Chick-pastry   130
+Veg-pastry     100
+Egg-pastry     120
+Vanila-Cake    250
+Ribbon-Cake    250
+Sponge-Cake    200
+Egg-sandwich   150
+Bread          100
